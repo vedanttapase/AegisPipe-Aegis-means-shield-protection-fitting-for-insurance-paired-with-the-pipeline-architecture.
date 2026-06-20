@@ -12,7 +12,7 @@ BASE_DIR = "../dataset"
 OUTPUT_FILE = "../output.csv"
 
 client = OpenAI(
-    api_key="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",
+    api_key=os.environ.get("GROQ_API_KEY"), #  Secure!
     base_url="https://api.groq.com/openai/v1"
 )
 
