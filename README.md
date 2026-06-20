@@ -1,0 +1,2 @@
+# AegisPipe-Aegis-means-shield-protection-fitting-for-insurance-paired-with-the-pipeline-architecture.
+An intelligent multimodal AI pipeline using Groq and Llama 3 to automate insurance damage claims. It processes text and images against 9 rules, detects anomalies, and generates structured data outputs to a CSV for an auditable, fast-tracked triage workflow designed to integrate smoothly with backend engines like n8n.
